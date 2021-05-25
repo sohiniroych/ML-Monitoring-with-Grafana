@@ -1,3 +1,0 @@
-include ml_monitor/config.yml
-include ml_monitor/colab/config.yml
-include ml_monitor/gdrive/settings.yaml
