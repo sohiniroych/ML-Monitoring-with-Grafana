@@ -4,7 +4,7 @@ This repository work on local installation of Python only and DOES NOT Support C
 ### Requirements:
 * python >= 3.6
 * [docker](https://www.docker.com)
-## Instalation
+## Installation
 1. Clone and enter the repository
 ```bash
 git clone https://github.com/sohiniroych/ML-Monitoring-with-Grafana.git
