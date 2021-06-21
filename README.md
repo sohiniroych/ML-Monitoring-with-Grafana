@@ -8,7 +8,7 @@ This repository work on local installation of Python only and DOES NOT Support C
 1. Clone and enter the repository
 ```bash
 git clone https://github.com/sohiniroych/ML-Monitoring-with-Grafana.git
-cd ml_monitor
+cd ML-Monitoring-with-Grafana
 ```
 2. Install package using `pip`
 ```bash
