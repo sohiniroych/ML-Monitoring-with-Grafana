@@ -29,7 +29,7 @@ cd docker
 sudo docker-compose up
 ```
 * `docker` directory contains an easy setup of tools used for metrics visualization and analysis. These are [Prometheus](https://prometheus.io) and [Grafana](https://grafana.com). You should firstly start these programs, with `docker-compose up` command. Now you should be able to reach the Grafana admin panel on http://localhost:3000. 
-* Logging in for the first time use username: admin, passwork: ml_monitor
+* Logging in for the first time use username: admin, password: ml_monitor
 
 2. To set up the ml_monitor sensing through post 9090, open a separate terminal and enter the following:
 ```
